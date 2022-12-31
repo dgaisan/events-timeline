@@ -1,0 +1,12 @@
+.horizontalLine {
+  height: 1px;
+  position: absolute;
+  display: inline-flex;
+  left: 0;
+  right: 0;
+  background: #cecece;
+  z-index: -1;
+  top: 50%;
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+}
