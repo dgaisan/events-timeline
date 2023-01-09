@@ -1,14 +1,13 @@
 import React from 'react';
 import './App.css';
-import Timeline from './components/Timeline';
-import VerticalLine from './components/VerticalLine';
+import { Timeline } from './components/Timeline';
+import data from './mockData/events';
 
 function App() {
   return (
     <div className="App">
       <>Timeline component.</>
-      <Timeline />
-      <VerticalLine isEven={true}/>
+      <Timeline events={data}></Timeline>
     </div>
   );
 }
