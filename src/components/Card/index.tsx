@@ -1,8 +1,8 @@
-import NoIcon from "./../../../public/event_type_icons/none.svg";
-import LifeIcon from "./../../../public/event_type_icons/life.svg";
-import PoliticsIcon from "./../../../public/event_type_icons/politics.svg";
-import SportIcon from "./../../../public/event_type_icons/sport.svg";
-import { Event, EventType } from "../../interfaces/Event";
+import NoIcon from "./../../event_type_icons/none.svg";
+import LifeIcon from "./../../event_type_icons/life.svg";
+import PoliticsIcon from "./../../event_type_icons/politics.svg";
+import SportIcon from "./../../event_type_icons/sport.svg";
+import { EventType } from "../../interfaces/Event";
 import styles from "./index.module.scss";
 import { OwnProps } from "./types";
 
