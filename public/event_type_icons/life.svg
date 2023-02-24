@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="20px" viewBox="0 0 21 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>entered transfer portal</title>
+    <defs>
+        <path d="M7.65165043,9.70097605 L8.53553391,10.5848595 L7.245,11.874976 L12.5,11.875 L12.5,13.125 L7.541,13.124976 L8.53553391,14.1204004 L7.65165043,15.0042839 L5,12.3526265 L7.65165043,9.70097605 Z M12.3483496,5 L15,7.65165043 L12.3483496,10.3033079 L11.4644661,9.41942438 L12.459,8.424 L7.5,8.42402395 L7.5,7.17402395 L12.755,7.174 L11.4644661,5.88388348 L12.3483496,5 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="entered-transfer-portal">
+            <circle id="Oval" fill="#1F4F9D" cx="10" cy="10" r="10"></circle>
+            <g id="icn-/-school">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" fill="#FFFFFF" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
