@@ -1,0 +1,40 @@
+.container {
+  min-height: 30px;
+  min-width: 100px;
+  background: #f2f3f5;
+  z-index: 1;
+  border-radius: 4px;
+  padding: 8px;
+
+  span {
+    color: $black;
+    line-height: 25px;
+    white-space: nowrap;
+  }
+
+  .eventName {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+
+    img {
+      margin-right: 4px;
+      height: 20px;
+      width: 21px;
+    }
+  }
+
+  .date {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    img {
+      margin-right: 4px;
+      height: 20px;
+      border-radius: 50%;
+      width: 21px;
+    }
+  }
+}
